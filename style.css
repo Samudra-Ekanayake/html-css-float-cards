@@ -22,6 +22,7 @@ footer {
 }
 
 .marco {
+    float: left;
     background-color: black;
     height: 70px;
     width: 250px;
@@ -46,3 +47,105 @@ footer {
 .email {
     color: lightskyblue;
 }
+
+.laura {
+    float: left;
+    background-color: black;
+    height: 70px;
+    width: 250px;
+    overflow: hidden;
+}
+
+.laura img {
+    max-width: 100%;
+    max-height: 100%;
+    display: block;
+    float: left;
+}
+
+.giorgio {
+    float: left;
+    background-color: black;
+    height: 70px;
+    width: 250px;
+    overflow: hidden;
+}
+
+.giorgio img {
+    max-width: 100%;
+    max-height: 100%;
+    display: block;
+    float: left;
+}
+
+.marco, .laura, .giorgio {
+    margin-left: 30px;
+    margin-bottom: 40px;
+}
+
+.container1 {
+    margin-left: 10%;
+    margin-right: 10%;
+    display: block;
+}
+
+.marta {
+    float: left;
+    background-color: black;
+    height: 70px;
+    width: 250px;
+    overflow: hidden;
+}
+
+.roberto {
+    float: left;
+    background-color: black;
+    height: 70px;
+    width: 250px;
+    overflow: hidden;
+}
+
+
+.daniela{
+    float: left;
+    background-color: black;
+    height: 70px;
+    width: 250px;
+    overflow: hidden;
+}
+
+.marta img {
+    max-width: 100%;
+    max-height: 100%;
+    display: block;
+    float: left;
+}
+.roberto img{
+    max-width: 100%;
+    max-height: 100%;
+    display: block;
+    float: left;
+}
+.daniela img{
+    max-width: 100%;
+    max-height: 100%;
+    display: block;
+    float: left;
+}
+
+.marta, .roberto, .daniela {
+    margin-left: 30px;
+}
+
+.container2{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+
+
+
+
+
+
+
